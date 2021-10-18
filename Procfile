@@ -1,1 +1,1 @@
-worker: /app/.chromedriver/bin/chromedriver
+web: /app/.chromedriver/bin/chromedriver
